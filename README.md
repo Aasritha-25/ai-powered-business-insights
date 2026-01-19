@@ -35,11 +35,21 @@ The dataset contains sample business sales data with the following columns:
 - Laptops are the most profitable product.
 - The West region shows high-value sales transactions.
 
-## ▶️ How to Run This Project
-1. Open the notebook using the **Open in Colab** button.
+## 🤖 AI-Powered Business Summary
+The project demonstrates how analytical insights can be converted into
+AI-style summaries to support faster decision-making by business stakeholders.
+This approach helps reduce manual reporting effort and improves clarity
+for non-technical audiences.
+
+## ▶️ How to Run the Project
+1. Open the notebook using **Google Colab**.
 2. Run all cells sequentially from top to bottom.
+3. Review outputs, visualizations, and AI-generated insights.
 
 ## 🎯 Outcome
-This project demonstrates practical data analysis skills, including data
-cleaning, analysis, visualization, and insight generation, making it suitable
-for entry-level Data Analyst roles.
+This project showcases practical Data Analyst skills, including:
+- Data analysis using Python
+- Business-oriented thinking
+- Data visualization
+- SQL-based analytical queries
+- AI-assisted insight generation
