@@ -15,6 +15,7 @@ The dataset contains sample business sales data with the following columns:
 - sales
 - profit
 
+
 ## 🛠 Tools & Technologies Used
 - Python
 - Pandas
@@ -28,6 +29,7 @@ The dataset contains sample business sales data with the following columns:
 - Stage 3: Business Metrics & Performance Analysis
 - Stage 4: Data Visualization
 - Stage 5: Business Insights
+- Stage 6: AI-Powered Insight Generation
 
 ## 📈 Key Business Insights
 - The South region generates the highest overall sales.
